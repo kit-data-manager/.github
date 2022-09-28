@@ -2,7 +2,7 @@
 
 We are **Data Explotation Methods**, and this is our public software repository. We deal with research data management and metadata in particular.
 
-- [🔎 Our page at Karlsruhe Institute of Technology](https://www.scc.kit.edu/ueberuns/dem.php)
+- [🔎 Our page at Karlsruhe Institute of Technology](https://www.scc.kit.edu/en/aboutus/dem.php)
 - [🚀 Our Software Portfolio, including documentation](https://kit-data-manager.github.io/webpage/)
 
 Feel free to open issues or contact us directly if you have questions. Contributions are highly welcome.
