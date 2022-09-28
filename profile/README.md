@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are **Data Explotation Methods**, and this is our public software repository. We deal with research data management and metadata in particular. We are a group of the Steinbuch Centre for Computing (SCC), which is located at the Karlsruhe Institute of Technology (KIT).
+We are **Data Explotation Methods** (DEM), and this is our public software repository. Our group deals with research data management and metadata in particular. DEM is a group of the Steinbuch Centre for Computing (SCC), which is located at the Karlsruhe Institute of Technology (KIT).
 
 - [🔎 Our page at Karlsruhe Institute of Technology (KIT)](https://www.scc.kit.edu/en/aboutus/dem.php)
 - [🚀 Our Software Portfolio, including documentation](https://kit-data-manager.github.io/webpage/)
