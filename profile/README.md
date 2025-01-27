@@ -7,6 +7,31 @@ We are **Data Exploitation Methods** (DEM), and this is our public software repo
 
 Feel free to open issues or contact us directly if you have questions. Contributions are highly welcome.
 
+<details>
+<summary>Services</summary>
+tbd.
+</details>
+
+<details>
+<summary>Web Components</summary>
+tbd.
+</details>
+
+<details>
+<summary>Graphical Frontends</summary>
+tbd.
+</details>
+
+<details>
+<summary>CLI Tools</summary>
+tbd.
+</details>
+
+<details>
+<summary>Programming Libraries</summary>
+tbd.
+</details>
+
 <!--
 
 **Here are some ideas to get you started:**
