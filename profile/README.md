@@ -7,6 +7,8 @@ We are **Data Exploitation Methods** (DEM), and this is our public software repo
 
 Feel free to open issues or contact us directly if you have questions. Contributions are highly welcome.
 
+### Portfolio Overview
+
 <details>
 <summary>Standalone Web Applications</summary>
   
@@ -62,9 +64,13 @@ Feel free to open issues or contact us directly if you have questions. Contribut
 * #### [ro-crate-java](https://github.com/kit-data-manager/ro-crate-java) :white_check_mark:
 </details>
 
+<br/><br/>
+<i>
+:white_check_mark:  Actively maintained/under development
 
-:white_check_mark: : Actively maintained/under development
-:x: : Inactive/abandoned
+:x:  Inactive/abandoned
+</i>
+
 <!--
 
 **Here are some ideas to get you started:**
