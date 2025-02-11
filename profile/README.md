@@ -62,6 +62,9 @@ Feel free to open issues or contact us directly if you have questions. Contribut
 * #### [ro-crate-java](https://github.com/kit-data-manager/ro-crate-java) :white_check_mark:
 </details>
 
+
+:white_check_mark: : Actively maintained/under development
+:x: : Inactive/abandoned
 <!--
 
 **Here are some ideas to get you started:**
