@@ -68,8 +68,6 @@ Feel free to open issues or contact us directly if you have questions. Contribut
 
 :white_check_mark: [kitdm-pycli](https://github.com/kit-data-manager/kitdm-pycli)
 
-:white_check_mark: [tomo-mapper](https://github.com/kit-data-manager/tomo_mapper)
-
 :white_check_mark: [pp13-mapper](https://github.com/kit-data-manager/pp13-mapper)
 
 :white_check_mark: [Nexus2Json_Mapper](https://github.com/kit-data-manager/Nexus2Json_Mapper)
