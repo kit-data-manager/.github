@@ -23,6 +23,7 @@ Feel free to open issues or contact us directly if you have questions. Contribut
 * #### [TypedPIDMaker](https://github.com/kit-data-manager/pit-service) :white_check_mark:
 * #### [Mapping-Service](https://github.com/kit-data-manager/mapping-service) :white_check_mark:
 * #### [Indexing-Service](https://github.com/kit-data-manager/indexing-service) :white_check_mark:
+* #### [ro-crate-rest](https://github.com/kit-data-manager/ro-crate-rest) :x:
 * #### [Collection API](https://github.com/kit-data-manager/collection-api) :x:
 </details>
 
@@ -34,12 +35,14 @@ Feel free to open issues or contact us directly if you have questions. Contribut
 * #### [react-fairdo-search]( https://github.com/kit-data-manager/react-fairdo-search) :white_check_mark:
 * #### [com_mapping-service-input](https://github.com/kit-data-manager/com_mapping-service-input) :x:
 * #### [visualization-graph-web-component](https://github.com/kit-data-manager/visualization-graph-web-component) :x:
+* #### [INCLDE](https://github.com/kit-data-manager/INCLDE) :x:
 </details>
 
 <details>
 <summary>Graphical Frontends</summary>
   
 * #### [frontend-collection](https://github.com/kit-data-manager/frontend-collection) :x:
+* #### [fairdoscope](https://github.com/kit-data-manager/fairdoscope) :x:
 </details>
 
 <details>
@@ -55,7 +58,8 @@ Feel free to open issues or contact us directly if you have questions. Contribut
 
 <details>
 <summary>Programming Libraries</summary>
-tbd.
+
+* #### [ro-crate-java](https://github.com/kit-data-manager/ro-crate-java) :white_check_mark:
 </details>
 
 <!--
