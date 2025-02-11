@@ -11,57 +11,76 @@ Feel free to open issues or contact us directly if you have questions. Contribut
 
 <details>
 <summary>Standalone Web Applications</summary>
-  
-* #### [Data-Collections-Explorer](https://github.com/kit-data-manager/Data-Collections-Explorer) :white_check_mark:
-* #### [EVOKS](https://github.com/kit-data-manager/evoks) :white_check_mark:
-* #### [FAIR DO Lab](https://github.com/kit-data-manager/FAIR-DO-Lab) :white_check_mark:
+
+:white_check_mark: [Data-Collections-Explorer](https://github.com/kit-data-manager/Data-Collections-Explorer)
+
+:white_check_mark: [EVOKS](https://github.com/kit-data-manager/evoks) 
+
+:white_check_mark: [FAIR DO Lab](https://github.com/kit-data-manager/FAIR-DO-Lab) 
+
+:white_check_mark: [takita](https://github.com/kit-data-manager/takita) 
 </details>
 
 <details>
 <summary>RESTful Services</summary>
   
-* #### [base-repo](https://github.com/kit-data-manager/base-repo) :white_check_mark:
-* #### [MetaStore](https://github.com/kit-data-manager/metastore2) :white_check_mark:
-* #### [TypedPIDMaker](https://github.com/kit-data-manager/pit-service) :white_check_mark:
-* #### [Mapping-Service](https://github.com/kit-data-manager/mapping-service) :white_check_mark:
-* #### [Indexing-Service](https://github.com/kit-data-manager/indexing-service) :white_check_mark:
-* #### [ro-crate-rest](https://github.com/kit-data-manager/ro-crate-rest) :x:
-* #### [Collection API](https://github.com/kit-data-manager/collection-api) :x:
+:white_check_mark: [base-repo](https://github.com/kit-data-manager/base-repo)
+
+:white_check_mark: [MetaStore](https://github.com/kit-data-manager/metastore2)
+
+:white_check_mark: [TypedPIDMaker](https://github.com/kit-data-manager/pit-service)
+
+:white_check_mark: [Mapping-Service](https://github.com/kit-data-manager/mapping-service)
+
+:white_check_mark: [Indexing-Service](https://github.com/kit-data-manager/indexing-service)
+
+:x: [ro-crate-rest](https://github.com/kit-data-manager/ro-crate-rest) 
+
+:x: [Collection API](https://github.com/kit-data-manager/collection-api)
 </details>
 
 <details>
 <summary>(Web) Components</summary>
  
-* #### [pid-component](https://github.com/kit-data-manager/pid-component) :white_check_mark:
-* #### [data-view-web-component](https://github.com/kit-data-manager/data-view-web-component) :white_check_mark:
-* #### [react-fairdo-search]( https://github.com/kit-data-manager/react-fairdo-search) :white_check_mark:
-* #### [com_mapping-service-input](https://github.com/kit-data-manager/com_mapping-service-input) :x:
-* #### [visualization-graph-web-component](https://github.com/kit-data-manager/visualization-graph-web-component) :x:
-* #### [INCLDE](https://github.com/kit-data-manager/INCLDE) :x:
+:white_check_mark: [pid-component](https://github.com/kit-data-manager/pid-component) 
+
+:white_check_mark: [data-view-web-component](https://github.com/kit-data-manager/data-view-web-component)
+
+:white_check_mark: [react-fairdo-search]( https://github.com/kit-data-manager/react-fairdo-search)
+
+:x: [com_mapping-service-input](https://github.com/kit-data-manager/com_mapping-service-input)
+
+:x: [visualization-graph-web-component](https://github.com/kit-data-manager/visualization-graph-web-component)
+
+:x: [INCLDE](https://github.com/kit-data-manager/INCLDE)
 </details>
 
 <details>
 <summary>Graphical Frontends</summary>
   
-* #### [frontend-collection](https://github.com/kit-data-manager/frontend-collection) :x:
-* #### [fairdoscope](https://github.com/kit-data-manager/fairdoscope) :x:
+:x: [frontend-collection](https://github.com/kit-data-manager/frontend-collection)
+
+:x: [fairdoscope](https://github.com/kit-data-manager/fairdoscope)
 </details>
 
 <details>
 <summary>CLI Tools</summary>
 
-* #### [kitdm-pycli](https://github.com/kit-data-manager/kitdm-pycli) :white_check_mark:
-* #### [tomo-mapper](https://github.com/kit-data-manager/tomo_mapper) :white_check_mark:
-* #### [pp13-mapper](https://github.com/kit-data-manager/pp13-mapper) :white_check_mark:
-* #### [Nexus2Json_Mapper](https://github.com/kit-data-manager/Nexus2Json_Mapper) :white_check_mark:
-* #### [nmv_FAIR-DOs](https://github.com/kit-data-manager/nmr_FAIR-DOs) :white_check_mark:
+:white_check_mark: [kitdm-pycli](https://github.com/kit-data-manager/kitdm-pycli)
 
+:white_check_mark: [tomo-mapper](https://github.com/kit-data-manager/tomo_mapper)
+
+:white_check_mark: [pp13-mapper](https://github.com/kit-data-manager/pp13-mapper)
+
+:white_check_mark: [Nexus2Json_Mapper](https://github.com/kit-data-manager/Nexus2Json_Mapper)
+
+:white_check_mark: [nmv_FAIR-DOs](https://github.com/kit-data-manager/nmr_FAIR-DOs)
 </details>
 
 <details>
 <summary>Programming Libraries</summary>
 
-* #### [ro-crate-java](https://github.com/kit-data-manager/ro-crate-java) :white_check_mark:
+:white_check_mark: [ro-crate-java](https://github.com/kit-data-manager/ro-crate-java)
 </details>
 
 <br/><br/>
