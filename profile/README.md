@@ -74,7 +74,7 @@ Feel free to open issues or contact us directly if you have questions. Contribut
 
 :white_check_mark: [Nexus2Json_Mapper](https://github.com/kit-data-manager/Nexus2Json_Mapper)
 
-:white_check_mark: [nmv_FAIR-DOs](https://github.com/kit-data-manager/nmr_FAIR-DOs)
+:white_check_mark: [nmr_FAIR-DOs](https://github.com/kit-data-manager/nmr_FAIR-DOs)
 </details>
 
 <details>
