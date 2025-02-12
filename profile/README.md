@@ -9,44 +9,15 @@ Feel free to open issues or contact us directly if you have questions. Contribut
 
 ### Portfolio Overview
 
-[Standalone Web Applications](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Afullstack+-topic%3Ainactive) 
-<details><summary>What's in there?</summary>
-Fullstack applications offering end-user targeted Web frontends and backend services.
-</details>
-
-
-[Backend Services](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Arestful-api+-topic%3Ainactive)
-<details><summary>What's in there?</summary>
-  Backend/base services typically accessible via RESTful APIs, partly offering basic Web frontend for administration purposes.
-</details>
-
-
-[Web/React Components](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Areact-component%2Cweb-component+-topic%3Ainactive)
-<details><summary>What's in there?</summary>
-Re-usable components, either following the W3C Web Component standard or implemented for a particular framework, e.g., React components.
-</details>
-
-[Graphical Frontends](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Agraphical-user-interface+-topic%3Ainactive)
-<details><summary>What's in there?</summary>
-Graphical, typically very generic Web frontends allowing end-users to access one or more <a href="https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Arestful-api+-topic%3Ainactive">Backend Services</a>.
-</details>
-
-[CLI Tools](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Acli+-topic%3Ainactive)
-<details><summary>What's in there?</summary>
-Tools offering command line interfaces for accessing one or more <a href="https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Arestful-api+-topic%3Ainactive">Backend Services</a>.
-</details>
-
-[Libraries](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Alibrary+-topic%3Ainactive) 
-<details><summary>What's in there?</summary>
-Programming libraries, typically written in Java, that can be re-used in your projects.
-</details>
-
-:x: [Inactive](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Ainactive) :x:
-<details><summary>What's in there?</summary>
-Inactive projects which are currently not maintained. Please contact us via the corresponding issue tracker if you are interested in one of these. 
-</details>
-
-
+| Topic | What's in there? |  |
+| :---: |     :---:        | ---: |
+| Standalone Web Applications  | Fullstack applications offering end-user targeted Web frontends and backend services.  | [Show](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Afullstack+-topic%3Ainactive) |
+| Backend Services | Backend/base services typically accessible via RESTful APIs, partly offering basic Web frontend for administration purposes. | [Show](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Arestful-api+-topic%3Ainactive) |
+| Web/React Components | Re-usable components, either following the W3C Web Component standard or implemented for a particular framework, e.g., React components. | [Show](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Areact-component%2Cweb-component+-topic%3Ainactive) |
+| Graphical Frontends | Graphical, typically very generic Web frontends allowing end-users to access one or more <a href="https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Arestful-api+-topic%3Ainactive">Backend Services</a>. | [Show](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Agraphical-user-interface+-topic%3Ainactive) |
+| CLI Tools | Tools offering command line interfaces for accessing one or more <a href="https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Arestful-api+-topic%3Ainactive">Backend Services</a>. | [Show](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Acli+-topic%3Ainactive) |
+| Libraries | Programming libraries, typically written in Java, that can be re-used in your projects. | [Show](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Alibrary+-topic%3Ainactive) |
+| :x: Inactive :x: | Inactive projects which are currently not maintained. Please contact us via the corresponding issue tracker if you are interested in one of these. | [Show](https://github.com/orgs/kit-data-manager/repositories?q=visibility%3Apublic+archived%3Afalse+topic%3Ainactive)  |
 
 <!--
 
